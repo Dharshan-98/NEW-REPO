@@ -398,6 +398,7 @@ plt.xlabel('Reason type', fontsize=12)
 plt.title('Count of Reason type', fontsize=15)
 plt.xticks(rotation='vertical')
 plt.savefig('figure 1.png')
+![output_9_1](https://user-images.githubusercontent.com/83378455/116754684-2fcda080-a9d7-11eb-80ad-f1261374df50.png)
 plt.show()
 
 color = sns.color_palette()
